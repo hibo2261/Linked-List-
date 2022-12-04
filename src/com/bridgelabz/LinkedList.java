@@ -42,7 +42,7 @@ public class LinkedList<T> {
         }
     }
 
-    public void toDisplay() {
+     public void toDisplay() {
 
         //current will point to head
         Node<T> current = head;
