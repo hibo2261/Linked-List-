@@ -12,5 +12,6 @@ public class LinkedListMain {
         list.toInsertData(70);
 
         list.toDisplay();
+
     }
 }
